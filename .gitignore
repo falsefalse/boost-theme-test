@@ -1,0 +1,10 @@
+.project
+config/*.yml
+log/*
+public/themes/*
+tmp
+db/schema.rb
+*.swp
+routes.txt
+Thumbs.db
+.DS_Store
